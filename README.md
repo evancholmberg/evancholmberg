@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @evancholmberg
-- 🌱 I’m currently learning Go
